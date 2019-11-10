@@ -1,5 +1,5 @@
 # PrimeNumbers
-First 20 million prime numbers.
+All prime numbers up to 20 million.
 
 Numbers start from 2 (line 2) until 19999999 (line 1270608). Last line is empty.
 
