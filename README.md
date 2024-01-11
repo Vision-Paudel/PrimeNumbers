@@ -6,5 +6,3 @@ Total of 1270607 numbers spearated by new line.
 Second File:
 Remaining numbers.
 
-
-https://www.visionpaudel.ca/prime_numbers.html
